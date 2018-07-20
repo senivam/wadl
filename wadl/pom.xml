@@ -379,6 +379,7 @@
         <jersey2.version>2.9</jersey2.version>
         <junit.version>4.10</junit.version>
         <jaxb.version>2.2.6</jaxb.version>
+        <maven.plugin.version>3.5.3</maven.plugin.version>
     </properties>
 
 </project>
